@@ -126,8 +126,8 @@ $customerWallet->wallet = [
 ];
 $customerProduct = new stdClass();
 $customerProduct->product = [
-    'Biskuit' => 200, 
-    'Coklat' => 2
+    'Biskuit' => 1, 
+    'Cokelat' => 2
 ];
 
 $vm = new VendingMachine();
